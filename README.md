@@ -5,6 +5,8 @@ How to Run the Game
     Download Zip file
   
     Unzip the file
+    
+    Open unzipped file
   
     Run adventure_rpg.exe
 
