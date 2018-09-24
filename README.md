@@ -1,6 +1,6 @@
 # Adventure_RPG
 
-How to Run the Game
+How to Run the Game (Windows Only)
   
     Download Zip file
   
@@ -16,4 +16,5 @@ Controls
     Walk with WASD
     
     E to select
+    
     
