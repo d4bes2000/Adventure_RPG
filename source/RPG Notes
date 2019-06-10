@@ -1,0 +1,78 @@
+Battle System:
+
+    Stats:
+        Health:
+        Energy:
+        Magic:
+
+    Actions:
+        1. Attack
+            1. Light Attack
+            2. Heavy Attack
+            3. Special Skill 1
+            4. Special Skill 2
+        2. Defend
+            1. Block
+            2. Dodge
+            3. Parry
+            4. Escape
+        3. Spell
+            Type in spell using arrow keys from memory
+        4. Item
+            1. Potions
+            2. Single Use Items
+            3. Reusable Items
+
+    Weapon Sets:
+        1. Sword
+        2. Greatsword
+        3. Axe
+        4. Hammer
+        5. Bow
+        6. Spear
+        7. Staff
+        8. Daggers
+        9. Wand
+        10. Shield
+
+    Magic Types:
+        1. Fire
+        2. Water
+        3. Earth
+        4. Air
+        5. Healing
+
+
+Enemies:
+
+    1. Wolf
+    2. Skeleton
+    3. Giant
+    4. Dragon
+    5. Bear
+    6. Ghost
+    7. Minotaur
+    8. Spider
+    9. Vampire
+    10. Bandit
+    11. Snake
+
+
+Pets:
+
+
+Other Notes:
+
+    Maps should have 8 extra rows above and below and 6 extra columns to the left and right
+
+
+
+Assets / Software:
+
+    Tileset and Hero Sprite - https://opengameart.org/content/zelda-like-tilesets-and-sprites
+
+    GUI - https://opengameart.org/content/golden-ui
+
+    Font - https://opengameart.org/content/minimalist-pixel-fonts
+
+    Tiled Map Editor - http://www.mapeditor.org/

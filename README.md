@@ -8,7 +8,7 @@ How to Run the Game (Windows Only)
     
     Open unzipped file
   
-    Run adventure_rpg.exe
+    Run build/adventure_rpg.exe
 
 
 Controls
